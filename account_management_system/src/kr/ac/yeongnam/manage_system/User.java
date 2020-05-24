@@ -1,4 +1,4 @@
-package account_management_system;
+package kr.ac.yeongnam.manage_system;
 
 public class User {
 
